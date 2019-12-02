@@ -1,0 +1,14 @@
+.intro{
+
+text-align:center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 60px;
+}
+body{
+    background-color:#39CCCC;
+}
+.tabble{
+    border-collapse:separate; 
+    border-spacing:5em;
+    margin-left:150px;
+    }
