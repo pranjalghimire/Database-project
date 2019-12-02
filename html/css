@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<title>
+CS 4354 Database Project
+</title>
+<head>
+<link rel="stylesheet" href="database.css">
+</head>
+<body>
+
+<h1 class="intro">
+<em>
+Employee pay rate data
+</em>
+</h1>
+
+
+<table class="tabble">
+
+<tr>
+
+
+<td>
+<a href="https://ibb.co/N79V4zd"><img src="https://i.ibb.co/1brvSxt/chart-3.png" alt="chart-3" border="0" width="400" height="500"></a>
+</td>
+
+
+<td>
+<a href="https://ibb.co/3pSq0RK"><img src="https://i.ibb.co/N9WPLTR/Race-And-Salary.png" alt="Race-And-Salary" border="0" width="400" height="500"></a><br /><a target='_blank' href='https://imgbb.com/' >website upload photos</a><br />
+</td>
+
+
+<td>
+<a href="https://ibb.co/JKBqG20"><img src="https://i.ibb.co/56MkSvt/Gender-And-Salary.png" alt="Gender-And-Salary" border="0" width="400" height="500"></a>
+</iframe>
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+<a href="https://ibb.co/0m3Lx0c"><img src="https://i.ibb.co/6r5SkKm/chart-1.png" alt="chart-1" border="0" width="400" height="500"></a>
+</td>
+
+
+<td>
+<a href="https://ibb.co/8NcT2sV"><img src="https://i.ibb.co/jbRBGfF/chart-2.png" alt="chart-2" border="0" width="400" height="500"></a>
+</td>
+
+<td>
+<a href="https://ibb.co/p4s4qxn"><img src="https://i.ibb.co/GC1Cm0F/chart-3.png" alt="chart-3" border="0" width="400" height="500"></a>
+</td>
+
+</tr>
+
+</table>
+
+</body>
+</html>
+
+
