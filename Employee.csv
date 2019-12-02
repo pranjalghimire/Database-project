@@ -1,0 +1,311 @@
+Employee_Name,EmpID,PayRate,State,DOB,Sex,MaritalDesc,RaceDesc
+"Brown, Mia",1103024456,28.5,MA,11/24/87,F,Married,Black or African American
+"LaRotonda, William  ",1106026572,23,MA,04/26/84,M ,Divorced,Black or African American
+"Steans, Tyrone  ",1302053333,29,MA,09/01/1986,M ,Single,White
+"Howard, Estelle",1211050782,21.5,MA,09/16/85,F,Married,White
+"Singh, Nan ",1307059817,16.56,MA,05/19/88,F,Single,White
+"Smith, Leigh Ann",711007713,20.5,MA,06/14/87,F,Married,Asian
+"Bunbury, Jessica",1504073368,55,VA,06/01/1964,F,Married,Black or African American
+"Carter, Michelle ",1403065721,55,VT,05/15/63,F,Single,White
+"Dietrich, Jenna  ",1408069481,55,WA,05/14/87,F,Single,White
+"Digitale, Alfred",1306059197,56,NH,09/14/88,M ,Married,American Indian or Alaska Native
+"Friedman, Gerry",1204032843,55.5,NY,02/24/69,M ,Single,Two or more races
+"Gill, Whitney  ",1302053046,55,OH,07/10/1971,F,Widowed,Black or African American
+"Gonzales, Ricardo",1411071481,55.5,ID,10/12/1954,M ,Married,White
+"Guilianno, Mike",1001167253,55,TN,02/09/1969,M ,Single,Two or more races
+"Leruth, Giovanni",1412071660,55,UT,12/27/88,M ,Separated,Black or African American
+"Mullaney, Howard",1306057978,55,AL,11/02/1975,M ,Single,Two or more races
+"Ozark, Travis",812011761,55,NC,05/19/82,M ,Single,White
+"Strong, Caitrin",1411071295,54,MT,05/12/1989,F,Married,Black or African American
+"Valentin,Jackie",1312063714,55,AZ,05/23/91,F,Married,Two or more races
+"Villanueva, Noah",1111030503,56,ME,07/11/1989,M ,Single,Asian
+"Buck, Edward",1504073313,55,MA,07/07/1975,M ,Married,White
+"Costa, Latia",1409070567,55,CA,11/08/1988,F,Single,White
+"Fraval, Maruk ",1411071302,55,CT,08/28/63,M ,Single,Black or African American
+"Givens, Myriam",1203032099,55,IN,09/22/89,F,Single,White
+Jeremy Prater,1001084890,56,NV,05/09/1974,M ,Married,White
+"Khemmich, Bartholemew",1104025008,55,CO,11/27/79,M ,Single,White
+"Martins, Joseph",1209048771,56,TX,06/11/1970,M ,Single,Black or African American
+"McKinzie, Jac",1209049326,55,TX,07/01/1984,M ,Married,Two or more races
+"Nguyen, Dheepa",1111030684,55,GA,03/31/89,F,Single,Two or more races
+"Onque, Jasmine",1501072180,57,FL,05/11/1990,F,Single,White
+"Potts, Xana",1102024106,55,KY,08/29/88,F,Married,Black or African American
+"Riordan, Michael",1502072711,55,ND,01/15/68,M ,Separated,White
+"Terry, Sharlene ",1401064637,55,OR,05/07/1965,F,Single,Black or African American
+"Rachael, Maggie",1009919940,45,MA,05/12/1980,F,Married,Black or African American
+"Smith, Jason",1009919980,46,MA,09/04/1983,M ,Single,White
+"Westinghouse, Matthew",1009919990,45,MA,10/24/87,M ,Married,White
+"Hubert, Robert",1009920000,45,MA,06/30/89,M ,Married,Black or African American
+"Champaigne, Brian",1009919920,63.5,MA,02/09/1972,M ,Married,White
+"Zamora, Jennifer",1112030816,65,MA,08/30/79,F,Single,White
+"Roper, Katie",1009919950,55,MA,11/21/72,F,Single,Black or African American
+"Becker, Renee",1102024056,43,MA,04/04/1986,F,Single,White
+"Goble, Taisha",905013738,48.5,MA,10/23/71,F,Single,White
+"Hernandez, Daniff",1410071156,40.1,MA,08/07/1986,M ,Married,Black or African American
+"Horton, Jayne",1105025718,34,MA,02/21/84,F,Single,White
+"Johnson, Noelle ",1003018246,40,MA,11/07/1986,F,Married,Asian
+"Murray, Thomas",1406068403,35.5,TX,07/04/1988,M ,Divorced,Black or African American
+"Pearson, Randall",1102023965,41,MA,09/05/1984,M ,Married,White
+"Petrowsky, Thelma",1108027853,42.75,MA,09/16/84,F,Married,Asian
+"Roby, Lori ",1407068885,39.55,MA,10/11/1981,F,Married,White
+"Rogers, Ivan",1203032255,42.2,MA,08/26/86,M ,Married,White
+"Salter, Jason",1111030148,45,MA,12/17/87,M ,Divorced,Black or African American
+"Simard, Kramer",808010278,30.2,MA,02/08/1970,M ,Married,White
+"Zhou, Julia",1110029732,31.4,MA,02/24/79,F,Single,White
+"Bramante, Elisa",1006020066,60,MA,03/19/83,F,Single,Black or African American
+"Houlihan, Debra",1009021646,60,RI,03/17/66,F,Married,White
+"Foss, Jason",1192991000,65,MA,07/05/1980,M ,Single,Black or African American
+"Roup,Simon",1106026933,62,MA,04/05/1973,M ,Single,White
+"Ruiz, Ricardo",1001175250,21,MA,01/04/1964,M ,Divorced,Two or more races
+"Monroe, Peter",1011022863,63,MA,10/05/1986,M ,Married,Hispanic
+"Dougall, Eric",1101023754,64,MA,07/09/1970,M ,Single,White
+"Clayton, Rick",1301052902,28.99,MA,09/05/1985,M ,Single,White
+"Galia, Lisa",1501072093,31.4,CT,07/06/1968,F,Single,White
+"Lindsay, Leonara ",602000312,26,CT,10/05/1988,F,Single,Two or more races
+"Soto, Julia ",1203032263,27.49,MA,03/12/1973,F,Married,Black or African American
+"Bacong, Alejandro ",1212052023,45,MA,01/07/1988,M ,Divorced,White
+"Cisco, Anthony",1102024173,42,MA,11/24/89,M ,Married,White
+"Dolan, Linda",1101023540,37,MA,07/18/88,F,Married,White
+"Gonzalez, Maria",1988299991,39,MA,04/16/81,F,Separated,White
+"Merlos, Carlos",1012023013,43,MA,06/18/87,M ,Single,White
+"Morway, Tanya",1001956578,27,MA,04/04/1979,F,Married,White
+"Shepard, Anita ",906014183,47,MA,04/14/81,F,Married,White
+"Tredinnick, Neville ",1104025466,28,MA,05/05/1988,M ,Married,White
+"Turpin, Jumil",1411071506,49.1,MA,03/31/69,M ,Married,White
+"King, Janet",1001495124,80,MA,09/21/54,F,Married,White
+"Albert, Michael  ",1501072311,54.5,MA,10/10/1968,M ,Divorced,White
+"Bozzi, Charles",1303054580,50.5,MA,03/10/1970,M ,Single,Asian
+"Butler, Webster  L",1110029990,55,MA,08/09/1983,M ,Single,White
+"Dunn, Amy  ",1409070147,51,MA,11/28/73,F,Single,White
+"Gray, Elijiah  ",1307060077,54,MA,07/11/1981,M ,Divorced,White
+"Hogland, Jonathan ",1001944783,48.5,MA,07/01/1972,M ,Married,White
+"Immediato, Walter",1403065874,42,MA,11/15/76,M ,Married,Asian
+"Liebig, Ketsia",1103024679,55,MA,10/26/81,F,Married,White
+"Miller, Brannon",1107027351,53,MA,08/10/1981,M ,Single,Hispanic
+"Peterson, Ebonee  ",1402065355,38.5,MA,05/09/1977,F,Married,White
+"Spirea, Kelley",1102024149,52,MA,09/30/75,F,Married,White
+"Stanley, David ",1000974650,53,MA,12/17/75,M ,Divorced,White
+"Sullivan, Kissy ",1405067298,55,MA,03/28/78,F,Married,Black or African American
+"Wallace, Courtney  E",1410071026,33.5,MA,11/14/55,F,Married,Black or African American
+"Anderson, Linda  ",1304055947,23,MA,05/22/77,F,Single,White
+"Bernstein, Sean",1109029366,16,MA,12/22/70,M ,Single,White
+"Chivukula, Enola",1101023394,21,MA,08/27/83,F,Single,White
+"Desimone, Carl ",1501072124,20,MA,04/19/67,M ,Married,White
+"Fernandes, Nilson  ",1302053339,18,MA,10/18/89,M ,Married,White
+"Girifalco, Evelyn",1204032927,16,MA,05/08/1980,F,Single,Two or more races
+"Harrison, Kara",1404066622,20,MA,05/02/1974,F,Married,White
+"Kirill, Alexandra  ",903013071,24,MA,10/08/1970,F,Married,White
+"MacLennan, Samuel",1201031032,15,MA,11/09/1972,M ,Widowed,White
+"Ndzi, Horia",1204033044,22,MA,03/28/83,M ,Married,White
+"Perry, Shakira",1109029186,22,MA,07/20/86,F,Single,White
+"Robinson, Alain  ",1206038000,24,MA,01/07/1974,M ,Married,Black or African American
+"Shields, Seffi",1205033102,15,MA,08/24/85,F,Married,White
+"Theamstern, Sophia",1404066739,20,MA,05/09/1965,F,Single,White
+"Wilber, Barry",1101023839,21,MA,09/09/1965,M ,Married,White
+"Bachiochi, Linda",1212051409,22,MA,02/11/1970,F,Single,Two or more races
+"Billis, Helen",1308060366,16,MA,09/01/1989,F,Married,White
+"Clukey, Elijian",1407069280,24.75,MA,08/26/80,M ,Married,White
+"DiNocco, Lily ",1209048696,22,MA,12/02/1978,F,Married,Black or African American
+"Fidelia,  Libby",1006020020,24,MA,03/16/81,F,Married,White
+"Gonzalez, Cayo",1411071212,16,MA,09/29/69,M ,Divorced,American Indian or Alaska Native
+"Ivey, Rose ",1408069882,16,MA,01/28/91,F,Single,White
+"Kretschmer, John",1311062610,21,MA,02/02/1980,M ,Married,Asian
+"Mangal, Debbie",1308060754,23,MA,11/07/1974,F,Married,White
+"Ngodup, Shari ",1403066020,15,MA,06/03/1967,F,Separated,Asian
+"Pham, Hong",1305057440,18,MA,03/06/1988,M ,Married,White
+"Robinson, Elias",1011022887,17,MA,01/28/85,M ,Widowed,White
+"Sparks, Taylor  ",1410071137,16,MA,07/20/68,F,Married,White
+"Tippett, Jeanette",1409070255,24,MA,06/05/1967,F,Divorced,Black or African American
+"Ybarra, Catherine ",1001268402,22,MA,05/04/1982,F,Single,Asian
+"Baczenski, Rachael  ",1307060083,17,MA,01/12/1974,F,Married,Hispanic
+"Brill, Donna",1406068293,20,MA,08/24/90,F,Married,White
+"Cockel, James",1599991009,15,MA,09/08/1977,M ,Single,White
+"Dobrin, Denisa  S",1202031618,16.75,MA,10/07/1986,F,Single,White
+"Garcia, Raul",1309061015,19,MA,09/15/85,M ,Single,White
+"Gordon, David",1106026579,15,MA,05/21/79,M ,Married,White
+"Jackson, Maryellen",1201031438,20,MA,09/11/1972,F,Single,White
+"Langton, Enrico",1304055987,17,MA,12/09/1986,M ,Married,White
+"Maurice, Shana",1401064327,20,MA,11/22/77,F,Married,White
+"Nguyen, Lei-Ming",1203032357,19,MA,07/07/1984,F,Single,White
+"Pitt, Brad ",1001735072,17,MA,11/23/81,M ,Single,Black or African American
+"Rose, Ashley  ",710007555,17,MA,12/05/1974,F,Separated,White
+"Squatrito, Kristen",1405067138,21,MA,03/26/73,F,Divorced,White
+"Trang, Mei",1012023152,22,MA,05/16/83,F,Single,White
+"Zima, Colleen",1211051232,15,MA,08/17/78,F,Widowed,Asian
+"Alagbe,Trina",1011022883,21,MA,09/27/88,F,Married,White
+"Beatrice, Courtney ",1403066194,22,MA,10/27/70,F,Single,White
+"Chan, Lin",1305057282,19.5,MA,02/12/1979,F,Single,White
+"Darson, Jene'ya ",1001109612,15,MA,11/05/1978,F,Married,White
+"Evensen, April",1107027392,18,MA,05/06/1989,F,Single,White
+"Gerke, Melisa",1308060622,22,MA,05/15/70,F,Divorced,White
+"Harrell, Ludwick",1406068241,21,MA,09/02/1982,M ,Married,Asian
+"Jung, Judy  ",1107027450,21,MA,04/17/86,F,Married,White
+"Lydon, Allison",1101023353,20,MA,10/22/75,F,Married,Black or African American
+"Motlagh,  Dawn",1102024121,15,MA,07/07/1984,F,Divorced,White
+"Panjwani, Nina",1109029531,18,MA,05/01/1979,F,Married,White
+"Rhoads, Thomas",1211050793,20,MA,07/22/82,M ,Divorced,White
+"Sander, Kamrin",1302053362,21,MA,07/10/1988,F,Married,Black or African American
+"Sutwell, Barbara",1407069061,14,MA,08/15/68,F,Single,Asian
+"Wallace, Theresa",1101023619,15,MA,08/02/1980,F,Single,White
+"Barone, Francesco  A",1101023679,16.76,MA,07/20/83,M ,Single,Two or more races
+"Carey, Michael  ",1311063114,20,MA,02/02/1983,M ,Single,Black or African American
+"Cornett, Lisa ",1403066069,15.75,MA,03/31/77,F,Married,White
+"Engdahl, Jean",1007020403,21.25,MA,05/31/74,M ,Single,White
+"England, Rex",1101023612,21,MA,08/25/78,M ,Married,White
+"Gaul, Barbara",1105026041,24,MA,12/02/1983,F,Single,Black or African American
+"Gross, Paula",1103024859,14,MA,05/21/83,F,Divorced,White
+"Jhaveri, Sneha  ",1412071713,19,MA,04/13/64,F,Separated,White
+"LeBel, Jonathan  R",1107027575,15,MA,10/18/81,M ,Single,White
+"Meads, Elizabeth",1409070245,14,MA,05/30/68,F,Single,Black or African American
+"Osturnka, Adeel",1404066949,16,MA,12/11/1976,M ,Married,White
+"Punjabhi, Louis  ",1401064562,16,MA,06/19/61,M ,Single,White
+"Saar-Beckles, Melinda",1410070998,20,MA,06/06/1968,F,Single,Black or African American
+"Stoica, Rick",1106026896,22,MA,03/14/85,M ,Married,Asian
+"Volk, Colleen",1011022814,21,MA,06/03/1986,F,Married,White
+"Athwal, Sam",1301052124,22,MA,02/18/83,M ,Widowed,White
+"Biden, Lowan  M",1412071844,22,MA,12/27/58,F,Divorced,Asian
+"Cierpiszewski, Caroline  ",1012023295,22,MA,05/31/88,F,Single,Black or African American
+"Dickinson, Geoff ",706006285,21,MA,11/15/82,M ,Single,White
+"Ferreira, Violeta",803009012,23,MA,06/10/1986,F,Single,White
+"Gold, Shenice  ",1408069539,17,MA,06/18/92,F,Single,White
+"Heitzman, Anthony",1002017900,19,MA,01/04/1984,M ,Single,White
+"Knapp, Bradley  J",1304055683,14,MA,11/10/1977,M ,Single,Black or African American
+"Mahoney, Lauren  ",1209049259,17,MA,07/07/1986,F,Single,White
+"Newman, Richard ",1302053044,21,MA,04/08/1977,M ,Married,White
+"Peterson, Kayla ",1307059944,17,MA,09/23/73,F,Married,White
+"Robinson, Cherly",1403065625,16,MA,01/07/1985,F,Married,White
+"Smith, Sade",1501071909,24.5,MA,02/02/1965,F,Single,White
+"Tinto, Theresa  ",1103024504,20,MA,07/30/83,F,Divorced,White
+"Williams, Jacquelyn  ",1308060671,16,MA,10/02/1969,F,Single,Two or more races
+"Barbara, Thomas",1312063507,22,MA,02/21/74,M ,Married,Asian
+"Bugali, Josephine ",1408069635,20,MA,10/30/69,F,Separated,Black or African American
+"Cole, Spencer",1001450968,15,MA,08/12/1979,M ,Single,Black or African American
+"Eaton, Marianne",1406067865,17,MA,09/05/1991,F,Married,White
+"Garneau, Hamish",1104025414,18,MA,04/18/80,M ,Single,Asian
+"Goyal, Roxana",1312063675,24,MA,10/09/1974,F,Married,Asian
+"Jacobi, Hannah  ",1503072857,21,MA,03/22/66,F,Divorced,White
+"Leach, Dallas",1408069409,19,MA,01/17/79,F,Single,Asian
+"Mckenna, Sandy",909015167,24,MA,01/07/1987,F,Married,Black or African American
+"O'hare, Lynn",1206044851,18.5,MA,09/30/80,F,Single,Two or more races
+"Power, Morissa",1102024274,19,MA,10/15/84,F,Divorced,Asian
+"Purinton, Janine",1011022926,16,MA,09/22/70,F,Divorced,White
+"Rossetti, Bruno",1405067492,18,MA,03/18/87,M ,Single,White
+"Stanford,Barbara  M",1111030244,14,MA,08/25/82,F,Divorced,Two or more races
+"Veera, Abdellah ",1203032235,19,MA,01/31/87,M ,Divorced,White
+"Adinolfi, Wilson  K",1409070522,20,MA,07/10/1983,M ,Single,White
+"Barton, Nader",1212051962,18,MA,07/15/77,M ,Divorced,White
+"Chace, Beatrice ",1208048062,16,MA,01/02/1951,F,Single,White
+"Crimmings,   Jean",1311063172,19.75,MA,04/10/1987,F,Single,White
+"Estremera, Miguel",1104025243,17,MA,09/02/1983,M ,Single,White
+"Gentry, Mildred",1501072192,19,MA,10/01/1990,F,Married,Black or African American
+"Handschiegl, Joanne",1405067064,24,MA,03/23/77,F,Married,White
+"Johnson, George",1105025721,17,MA,08/19/59,M ,Married,White
+"Keatts, Kramer ",1301052462,19,MA,01/19/76,M ,Single,White
+"Linares, Marilyn ",1206042315,15.25,MA,03/26/81,F,Married,White
+"Medeiros, Jennifer",1109029256,20,MA,09/22/76,F,Single,White
+"Owad, Clinton",1103024335,22,MA,11/24/79,M ,Single,Black or African American
+"Rarrick, Quinn",1208048229,21,MA,12/31/84,M ,Divorced,White
+"Sadki, Nore  ",1308060535,21,MA,12/21/74,M ,Single,White
+"Sullivan, Timothy",1201031310,19,MA,10/07/1982,M ,Married,White
+"Von Massenbach, Anna",1106026474,20,MA,04/06/1985,F,Single,White
+"Anderson, Carol ",1001417624,16,MA,09/08/1989,F,Divorced,White
+"Becker, Scott",1110029777,17,MA,04/06/1979,M ,Single,Asian
+"Chang, Donovan  E",1111030129,22,MA,08/24/83,M ,Single,White
+"DeGweck,  James",1306058816,23.5,MA,10/31/77,M ,Married,White
+"Ferguson, Susan",1502072511,20,MA,04/14/55,F,Married,White
+"Gilles, Alex",1008020960,15,MA,08/09/1974,M ,Married,Black or African American
+"Harrington, Christie ",1110029602,19.75,MA,08/18/52,F,Single,White
+"Kinsella, Kathleen  ",710007401,22,MA,12/08/1973,F,Married,White
+"Lynch, Lindsay",1001138521,19,MA,02/14/73,F,Single,Two or more races
+"Ndzi, Colombui",1204033041,18,MA,05/02/1989,M ,Single,Black or African American
+"Pelech, Emil",1307060058,24,MA,03/17/88,M ,Single,Black or African American
+"Rivera, Haley  ",1405067642,22,MA,01/12/1973,F,Married,Asian
+"Sewkumar, Nori",807010161,15.2,MA,03/10/1975,F,Single,Asian
+"Tavares, Desiree  ",1405067501,15,MA,04/03/1975,F,Married,Two or more races
+"Whittier, Scott",1307060212,23,MA,05/24/87,M ,Single,White
+"Burke, Joelle",1011022820,25,MA,03/02/1980,F,Single,Black or African American
+"Fitzpatrick, Michael  J",1109029103,29,MA,10/01/1981,M ,Single,White
+"Huynh, Ming",1306058509,23,MA,09/22/76,F,Divorced,White
+"Mancuso, Karen",1304055986,23,MA,12/10/1986,F,Married,Two or more races
+"Pelletier, Ermine",1202031821,28,MA,07/18/89,F,Married,Asian
+"Trzeciak, Cybil",1107027551,22,MA,03/15/85,F,Single,White
+"Cloninger, Jennifer",1012023226,25,MA,08/31/81,F,Married,White
+"Gonzalez, Juan",1411071324,29,MA,10/12/1964,M ,Married,Black or African American
+"Johnston, Yen",1306057810,25,MA,09/08/1969,F,Single,White
+"Miller, Ned",1205033439,25,MA,06/29/85,M ,Single,White
+"Petingill, Shana  ",1103024843,26,MA,03/10/1979,F,Married,Asian
+"Winthrop, Jordan  ",1405067188,29,MA,11/07/1958,M ,Single,White
+"Close, Phil",1209048697,26,MA,11/25/78,M ,Married,White
+"Good, Susan",1001549006,24.25,MA,05/25/86,F,Married,White
+"Langford, Lindsey",1010022030,22,MA,07/25/79,F,Divorced,Asian
+"Monkfish, Erasumus",1404066711,27,MA,08/17/92,M ,Married,White
+"Roberson, May",1402065340,26,MA,09/05/1981,F,Divorced,White
+"Wolk, Hang  T",1205033180,22,MA,04/20/85,F,Single,White
+"Bondwell, Betsy",1008021030,26,MA,01/16/67,F,Single,White
+"Faller, Megan ",1108028428,27,MA,09/22/78,F,Married,Black or African American
+"Hunts, Julissa",1106026433,25,MA,03/11/1984,F,Single,White
+"Lunquist, Lisa",1001504432,26.1,MA,03/28/82,F,Single,Black or African American
+"Nowlan, Kristie",1104025435,26.39,MA,11/23/85,F,Single,White
+"Smith, Joe",1001970770,22,MA,10/30/63,M ,Single,White
+"Tejeda, Lenora ",1406068345,28.75,MA,05/24/53,F,Married,White
+"Beak, Kimberly  ",1303054329,27,MA,04/17/66,F,Married,White
+"Demita, Carla",1104025179,29,MA,02/25/51,F,Separated,Black or African American
+"Hankard, Earnest",1307059937,24,MA,08/10/1988,M ,Single,White
+"Hendrickson, Trina",1011022932,24,MA,08/27/72,F,Single,White
+"Linden, Mathew",1405067565,22,MA,03/19/79,M ,Married,White
+"Moran, Patrick",1408069503,26,MA,12/03/1976,M ,Single,Hispanic
+"Sahoo, Adil",1106026462,29,MA,04/26/86,M ,Married,White
+"Burkett, Benjamin ",1301052449,26,MA,08/19/77,M ,Married,White
+"Foreman, Tanya",1012023204,24,MA,11/08/1983,F,Married,White
+"Jeannite, Tayana",1008020942,22.5,MA,11/06/1986,F,Divorced,American Indian or Alaska Native
+"McCarthy, Brigit",1406067957,26,MA,05/21/87,F,Single,White
+"Peters, Lauren",1411071406,29,MA,08/17/86,F,Married,White
+"Walker, Roger",1011022818,22,MA,02/10/1976,M ,Single,Black or African American
+"Akinkuolie, Sarah",1005019209,29,MA,09/19/88,F,Married,White
+"Davis, Daniel",1201031274,25,MA,09/14/79,M ,Single,Two or more races
+"Gosciminski, Phylicia  ",1108028351,27,MA,12/08/1983,F,Separated,American Indian or Alaska Native
+"Latif, Mohammed",1104025486,28,MA,05/09/1984,M ,Married,White
+"Monterro, Luisa",1001103149,25,MA,04/24/70,F,Single,Black or African American
+"Robertson, Peter",1499902991,22,MA,07/03/1972,M ,Married,White
+"Woodson, Jason",1012023010,24.25,MA,05/11/1985,M ,Single,White
+"Blount, Dianna",1403066125,27,MA,09/21/90,F,Single,White
+"Erilus, Angela",1105025661,24,MA,08/25/89,F,Separated,White
+"Homberger, Adrienne  J",1207046956,28,MA,02/16/84,F,Married,White
+"Lundy, Susan",1305056276,24,MA,12/26/76,F,Widowed,White
+"Moumanil, Maliki ",1301052436,29,MA,12/01/1974,M ,Separated,Black or African American
+"Sloan, Constance",1012023103,23,MA,11/25/87,F,Single,White
+"Buccheri, Joseph  ",1101023457,22,MA,07/28/83,M ,Single,White
+"Fancett, Nicole",1402065085,24,MA,09/27/87,F,Single,Black or African American
+"Hutter, Rosalie",1103024924,28,MA,05/07/1992,F,Separated,White
+"Manchester, Robyn",1110029623,23,MA,08/25/76,F,Married,White
+"Oliver, Brooke ",1001856521,25,MA,02/11/1952,F,Married,Asian
+"Thibaud, Kenneth",1011022777,23,MA,09/16/75,M ,Widowed,White
+"Daneault, Lynn",1402065303,54,VT,04/19/90,F,Single,White
+"Kampew, Donysha",1109029264,60.25,PA,11/11/1989,F,Single,White
+"Smith, John",1499902910,56,MA,08/16/84,M ,Divorced,Black or African American
+"Le, Binh",1009919930,50.25,MA,06/14/87,F,Single,Asian
+"Navathe, Kurt",1009919960,52.25,MA,04/25/70,M ,Single,Asian
+"Wang, Charlie",1009919970,51,MA,07/08/1981,M ,Single,Asian
+"LeBlanc, Brandon  R",1102024115,55,MA,06/10/1984,M ,Married,White
+"Quinn, Sean",1206043417,55,MA,11/06/1984,M ,Married,Black or African American
+"Andreola, Colby",1107027358,47.6,MA,05/24/79,F,Single,White
+"Carabbio, Judith",1101023577,56,MA,04/05/1987,F,Single,White
+"Del Bosque, Keyla",1203032498,57.12,MA,07/05/1979,F,Single,Black or African American
+"Exantus, Susan",1401064670,48.5,MA,05/15/87,F,Married,Black or African American
+"Martin, Sandra",1303054625,55.51,MA,11/07/1987,F,Single,Asian
+"Patronick, Luke",1112030979,52.25,MA,02/20/79,M ,Single,Asian
+"Saada, Adell",1012023185,49.25,MA,07/24/86,F,Married,White
+"Szabo, Andrew",1201031324,48,MA,05/06/1983,M ,Single,White
+"True, Edward",1102024057,45.42,MA,06/14/83,M ,Single,Black or African American
+"Sweetwater, Alex",1001644719,27,MA,11/22/66,M ,Single,White
+"Foster-Baker, Amy",1201031308,34.95,MA,04/16/79,F,Married,White
+"Boutwell, Bonalyn",1307060188,34.95,MA,04/04/1987,F,Married,Asian
+"Ait Sidi, Karthikeyan   ",1307060199,62,MA,05/05/1975,M ,Married,White
+"Carr, Claudia  N",1010022337,61.3,MA,06/06/1986,F,Single,Black or African American
+"Favis, Donald  ",1412071562,58.2,CT,07/30/64,M ,Single,Black or African American
+"Roehrich, Bianca",1111030266,58.5,MA,05/27/73,F,Single,White
+"Daniele, Ann  ",1411071312,54.1,CT,01/18/52,F,Married,White
+"Lajiri,  Jyoti",1108028108,56.2,MA,04/23/86,M ,Married,White
+"Semizoglou, Jeremiah  ",904013591,53.8,MA,02/09/1983,M ,Married,Asian
+"South, Joe",1308060959,53,CT,09/09/1965,M ,Single,White
+"Warfield, Sarah",1301052347,55.2,MA,05/02/1978,F,Widowed,Asian
