@@ -1,0 +1,93 @@
+%Creating Datadase
+CREATE TABLE `main` (
+  `Employee_Name` varchar(25) DEFAULT NULL,
+  `EmpID` int(10) NOT NULL,
+  `DeptID` int(1) DEFAULT NULL,
+  `PayRate` decimal(4,2) DEFAULT NULL,
+  `PositionID` int(2) DEFAULT NULL,
+  `Position` varchar(28) DEFAULT NULL,
+  `State` varchar(2) DEFAULT NULL,
+  `DOB` varchar(10) DEFAULT NULL,
+  `Sex` varchar(2) DEFAULT NULL,
+  `MaritalDesc` varchar(9) DEFAULT NULL,
+  `RaceDesc` varchar(32) DEFAULT NULL,
+  `Department` varchar(20) DEFAULT NULL,
+  PRIMARY KEY (`EmpID`),
+  KEY `main_index` (`EmpID`),
+  KEY `Iindex` (`EmpID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
+%Normalization
+SELECT PositionID, Position 
+FROM project.main
+group by(PositionID)
+
+SELECT DeptId, Department,
+from project.main
+group by(DeptID)
+
+
+
+
+%Views
+CREATE VIEW "Payment according to gender" AS
+SELECT sex, avg(PayRate)
+from project.main
+group by(sex)
+
+CREATE VIEW "Payment according to Race" AS
+SELECT RaceDesc, avg(Payrate) 
+FROM project.main
+group by (RaceDesc)
+
+CREATE VIEW "Payment according to Marital Status" AS
+SELECT MaritalDesc, avg(Payrate) 
+FROM project.main
+group by (MaritalDesc)
+
+%Index
+create index Main_index
+on project.main (EmpID);
+
+show index from project.main;
+
+%key Constraints
+ALTER TABLE project.main
+ADD FOREGIN KEY (DepatmentID)
+REFRENCES project.main (PositionID)
+
+
+
+
+
+%Other Intresting Queries (Used for vizualzation too)
+SELECT count(Position) EmployeeParticipation ,RaceDesc
+FROM project.main
+group by (RaceDesc)
+
+SELECT count(Position) As EmployeeParticipation ,MaritalDesc
+FROM project.main
+group by (MaritalDesc)
+
+SELECT count(Position) AS EmployeeParticipation ,Sex
+FROM project.main
+group by (sex)
+
+
+
+
+%Update
+UPDATE project.main
+Set Payrate = 28.0 , PositionID = 23
+Where EmpID  = 602000312;
+
+%Insert
+INSERT INTO project.main
+VALUES("Howard, Maine",1111050782, 5, 26.00, 19, 'Boss', 'NY', '11/15/82', 'M', 'Single', 'Black', 'Executive');
+
+%Delete
+Delete from project.main
+where EmpID = 706006285 ;
+
