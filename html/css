@@ -5,10 +5,17 @@ font-family: 'Courier New', Courier, monospace;
 font-size: 60px;
 }
 body{
-    background-color:#39CCCC;
+    background-color:#4f5f76;
 }
 .tabble{
     border-collapse:separate; 
     border-spacing:5em;
     margin-left:150px;
     }
+
+.div{
+    text-align: center;
+}
+captions{
+    font-size:200%;
+}
